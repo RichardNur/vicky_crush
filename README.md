@@ -6,6 +6,16 @@
 
 The Wikipedia Quiz Game is a web-based quiz where players answer questions about famous people based on data retrieved from the Wikipedia API. Players take turns trying to score as many points as possible by answering correctly. 
 
+## Roadmap ✨📌
+
+- Finish API integration
+- Reorganize structure and Code
+- Rework Gameplay and User Interface
+
+- Improve question variety.
+- Enhance UI for better player experience.
+- Add support for different difficulty levels. 
+
 ## How to Play 🎲📝
 
 1. The game fetches information about a famous person from Wikipedia.
@@ -42,12 +52,6 @@ To run the game locally:
    ```bash
    python main.py
    ```
-
-## Roadmap ✨📌
-
-- Improve question variety.
-- Enhance UI for better player experience.
-- Add support for different difficulty levels. 
 
 ## Contributions 🤝🛠️
 
