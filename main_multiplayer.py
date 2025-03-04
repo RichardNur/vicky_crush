@@ -45,7 +45,7 @@ def get_random_person(data, countries, us_states):
     while True:
         data = candidate_list_full
         person = random.choice(data)
-        return person
+        return personv
 
 
 def find_birth_year(text):
